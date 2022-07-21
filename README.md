@@ -8,3 +8,4 @@ Aquí encontrarás lo siguiente:
 - Ejemplos sobre cómo configurar beans usando un fichero xml, en vez de las anotaciones que es lo que suele usarse.
 - Ejemplos sobre cómo inyectar valores alojados en un fichero de propiedades en nuestro código.
 - Ejemplos sobre cómo ejecutar código en algunas de las fases del ciclo de vida del bean.
+- Ejemplos sobre como se generan beans usando los patrones singleton y prototype
